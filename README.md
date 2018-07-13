@@ -2,7 +2,7 @@
 ```
 hugetest [SIZE] [HUGE]
  
-  MEGABYTES = Amount of memory to use in megabytes (MB)
+  SIZE = Amount of memory to use in megabytes (MB)
 
   HUGE = 1 to request hugepages (MADV_HUGEPAGE)
        = 0 to disable hugepages (MADV_NOHUGEPAGE)
